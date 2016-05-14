@@ -14,3 +14,10 @@ it's now
 ```
 puts!(object1, object2)
 ```
+
+just make sure to add 
+```
+#[macro_use(puts)]
+extern crate puts;
+```
+in your project.
