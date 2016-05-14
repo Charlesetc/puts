@@ -5,6 +5,7 @@ pub fn putone<T: Debug>(a: T) {
     println!("{:?}", a);
 }
 
+#[macro_export]
 macro_rules! puts {
     ( $( $a: expr ),* ) => {
         {
