@@ -3,7 +3,7 @@ name = "puts"
 version = "0.1.0"
 authors = ["Charles Chamberlain <charlespipin@gmail.com>"]
 readme = "README.md"
-license = "LICENSE.txt"
+license = "MIT"
 description = "a macro puts! just puts!(2, object, 'h')"
 
 [dependencies]
