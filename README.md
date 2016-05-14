@@ -6,7 +6,7 @@ That's insane. So I made puts!
 
 Instead of:
 ```
-println!("{:?} {:?}", object);
+println!("{:?} {:?}", object1, object2);
 ```
 
 it's now
